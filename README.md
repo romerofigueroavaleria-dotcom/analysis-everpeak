@@ -1,5 +1,5 @@
-# analysis-mobility_economy
-# Mobility Economy Analysis – Sprint 6
+# analysis-everpeak
+# Everpeak Analysis – Sprint 7
 
 Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
 
